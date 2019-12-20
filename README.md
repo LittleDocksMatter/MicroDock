@@ -3,5 +3,3 @@ A dock with seamless integration into windows, even at the cost of re-usability.
 
 Covered under LGPL License, using the free version of QT. Anyone who wants to is free to use, modify, and redistribute any code included.
 Utilizing QT 5.9.8 Open Source
-
-test
